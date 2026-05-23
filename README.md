@@ -45,12 +45,6 @@ Pretendo publicar projetos como:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Monteiro-Fontes&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌎 Idiomas
 
 - Inglês — Intermediário
